@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tooterfly/static/css/main.e044c068.css",
+    "main.js": "/tooterfly/static/js/main.0ff6d5c9.js",
+    "static/js/488.954cd771.chunk.js": "/tooterfly/static/js/488.954cd771.chunk.js",
+    "index.html": "/tooterfly/index.html",
+    "main.e044c068.css.map": "/tooterfly/static/css/main.e044c068.css.map",
+    "main.0ff6d5c9.js.map": "/tooterfly/static/js/main.0ff6d5c9.js.map",
+    "488.954cd771.chunk.js.map": "/tooterfly/static/js/488.954cd771.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e044c068.css",
+    "static/js/main.0ff6d5c9.js"
+  ]
+}
